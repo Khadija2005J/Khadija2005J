@@ -1,6 +1,9 @@
-## Hi there👋, I’m Khadija
+<h1 align="center">Hi 👋, I'm Khadija</h1>
 
-Computer Engineering student with a strong interest in software engineering and modern technologies.  
+<p align="center">
+  Software Engineering student 
+</p>
+Software Engineering student with a strong interest in modern technologies
 I enjoy building, learning, and improving step by step through real practice.
 
 I mainly work on full-stack development, with a solid foundation in programming, data, and system design.
