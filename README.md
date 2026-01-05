@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Khadija</h1>
 
-<p align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+<p align="center" style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
   <img src="assets/usmba.png" alt="USMBA" height="55"/>
 
-  <strong style="font-size: 18px;">
+  <strong style="font-size: 18px; text-align: center;">
     Software Engineering student
   </strong>
 
@@ -11,6 +11,7 @@
 </p>
 
 <hr />
+
 
 
 Software Engineering student with a strong interest in modern technologies
