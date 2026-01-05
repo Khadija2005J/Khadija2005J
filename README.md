@@ -12,6 +12,7 @@
     </td>
   </tr>
 </table>
+
 ---
 
 Software Engineering student with a strong interest in modern technologies
@@ -57,4 +58,3 @@ I enjoy working in teams, sharing ideas, and contributing to collaborative and o
 
 ## Fun facts
 I often start coding with a simple idea and enjoy improving it step by step.
-
