@@ -1,14 +1,23 @@
-<h1 align="center">Hi 👋, I'm Khadija</h1>
+<table width="100%">
+  <tr>
+    <td width="20%" align="left">
+      <img src="assets/usmba.png" alt="USMBA logo" width="120"/>
+    </td>
+    <td align="center">
+      <h1>Hi 👋, I'm Khadija</h1>
+      <p><strong>Software Engineering student</strong></p>
+    </td>
+    <td width="20%" align="right">
+      <img src="assets/ensaf.png" alt="ENSAF logo" width="120"/>
+    </td>
+  </tr>
+</table>
 
-<div style="width: 100%;">
-  <p style="display: flex; justify-content: space-between;">
-    <img src="assets/usmba.png" height="55"/>
-    <strong style="font-size: 18px;  align-items: center">Software Engineering student</strong>
-    <img src="assets/ensaf.png" height="80"/>
-  </p>
-</div>
+---
 
-<hr />
+Software Engineering student with a strong interest in modern technologies. I enjoy learning by doing and taking each step through real practice.
+
+I mainly work on full-stack development, with a solid foundation in programming, data structures and algorithms.
 
 
 
