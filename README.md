@@ -22,6 +22,7 @@
 
 
 
+
 Software Engineering student with a strong interest in modern technologies
 I enjoy building, learning, and improving step by step through real practice.
 
