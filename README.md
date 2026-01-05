@@ -1,22 +1,17 @@
 <h1 align="center">Hi 👋, I'm Khadija</h1>
 
-<table align="center">
-  <tr>
-    <td style="padding-right: 35px;">
-      <img src="assets/usmba.png" alt="USMBA" height="55" />
-    </td>
+<p align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <img src="assets/usmba.png" alt="USMBA" height="55"/>
 
-    <td style="padding: 0 30px; font-weight: 600; font-size: 18px;">
-      Software Engineering student
-    </td>
+  <strong style="font-size: 18px;">
+    Software Engineering student
+  </strong>
 
-    <td style="padding-left: 35px;">
-      <img src="assets/ensaf.png" alt="ENSAF" height="55" />
-    </td>
-  </tr>
-</table>
+  <img src="assets/ensaf.png" alt="ENSAF" height="55"/>
+</p>
 
 <hr />
+
 
 Software Engineering student with a strong interest in modern technologies
 I enjoy building, learning, and improving step by step through real practice.
