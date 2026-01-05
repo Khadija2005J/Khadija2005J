@@ -1,25 +1,26 @@
 <h1 align="center">Hi 👋, I'm Khadija</h1>
 
-<div style="display: flex; align-items: center; width: 100%;">
-  
-  <!-- Left: USMBA -->
-  <div style="flex: 1; display: flex; justify-content: flex-start;">
-    <img src="assets/usmba.png" alt="USMBA" height="55"/>
-  </div>
+<table width="100%">
+  <tr>
+    <!-- Left -->
+    <td align="left" width="33%">
+      <img src="assets/usmba.png" alt="USMBA" height="55"/>
+    </td>
 
-  <!-- Center: Text -->
-  <div style="flex: 1; text-align: center; font-weight: 600; font-size: 18px;">
-    Software Engineering student
-  </div>
+    <!-- Center -->
+    <td align="center" width="34%" style="font-weight: 600; font-size: 18px;">
+      Software Engineering student
+    </td>
 
-  <!-- Right: ENSAF -->
-  <div style="flex: 1; display: flex; justify-content: flex-end;">
-    <img src="assets/ensaf.png" alt="ENSAF" height="80"/>
-  </div>
-
-</div>
+    <!-- Right -->
+    <td align="right" width="33%">
+      <img src="assets/ensaf.png" alt="ENSAF" height="80"/>
+    </td>
+  </tr>
+</table>
 
 <hr />
+
 
 
 
