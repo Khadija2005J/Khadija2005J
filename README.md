@@ -52,7 +52,7 @@ I enjoy working in teams, sharing ideas, and contributing to collaborative and o
 ## How to reach me
 - LinkedIn: https://www.linkedin.com/in/khadija-alaoui-mrani-28633a334
 - GitHub: https://github.com/Khadija2005J
-- Email: your.email@example.com
+- Email: khadija.alaouimrani@usmba.ac.ma
 
 ---
 
