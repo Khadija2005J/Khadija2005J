@@ -1,17 +1,24 @@
-<table width="100%">
+<div align="center">
+
+<table style="margin: 0 auto; border-collapse: collapse; width: 80%;">
   <tr>
-    <td width="20%" align="left">
+    <td style="width: 20%; text-align: left; vertical-align: middle;">
       <img src="assets/usmba.png" alt="USMBA logo" width="120"/>
     </td>
-    <td align="center">
-      <h1>Hi 👋, I'm Khadija</h1>
-      <p><strong>Software Engineering student</strong></p>
+
+    <td style="text-align: center; vertical-align: middle; padding: 10px 20px;">
+      <h1 style="margin: 0;">Hi 👋, I'm Khadija</h1>
+      <hr style="width: 60%; margin: 10px auto; border: 0; border-top: 1px solid #e1e4e8;">
+      <p style="margin: 8px 0 0; font-weight: 600;">Software Engineering student</p>
     </td>
-    <td width="20%" align="right">
+
+    <td style="width: 20%; text-align: right; vertical-align: middle;">
       <img src="assets/ensaf.png" alt="ENSAF logo" width="120"/>
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
