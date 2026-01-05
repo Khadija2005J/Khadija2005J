@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Khadija</h1>
 
-<p align="center"><strong>Software Engineering student</strong></p>
+<p align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <img src="assets/usmba.png" alt="USMBA" height="55"/>
 
-<p align="center">—</p>
-<p align="center">
-  <img src="assets/usmba.png" alt="USMBA" height="60"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="assets/ensaf.png" alt="ENSAF" height="60"/>
+  <strong style="font-size: 18px;">
+    Software Engineering student
+  </strong>
+
+  <img src="assets/ensaf.png" alt="ENSAF" height="55"/>
 </p>
+
+<hr />
+
 
 
 
