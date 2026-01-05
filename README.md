@@ -1,16 +1,46 @@
-## Hi there 👋
+## Hi there👋, I’m Khadija
 
-<!--
-**Khadija2005J/Khadija2005J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student with a strong interest in software engineering and modern technologies.  
+I enjoy building, learning, and improving step by step through real practice.
 
-Here are some ideas to get you started:
+I mainly work on full-stack development, with a solid foundation in programming, data, and system design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I’m currently focused on
+Strengthening my engineering skills, clean code practices, and software architecture through hands-on experience.
+
+---
+
+## Collaboration
+I enjoy working in teams, sharing ideas, and contributing to collaborative and open-source projects.
+
+---
+
+## Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,angular,react,spring,git,github,linux,windows" />
+</p>
+
+**Tech stack and skills**
+- Programming languages: Python, Java, C, C++, C#
+- Web development: Angular, React, Spring Boot
+- Databases and query languages: SQL, CQL, MQL, Cypher
+- Data and analysis: NumPy, Excel, data visualization
+- Software design: UML, object-oriented design, data modeling
+- Systems: Windows, Linux
+- Tools: Git, GitHub
+
+---
+
+## How to reach me
+- LinkedIn: https://www.linkedin.com/in/khadija-alaoui-mrani-28633a334
+- GitHub: https://github.com/Khadija2005J
+- Email: your.email@example.com
+
+---
+
+## Fun facts
+I often start coding with a simple idea and enjoy improving it step by step.
+
