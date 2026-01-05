@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Khadija</h1>
 
 <div style="width: 100%;">
-  <p style="display: flex; align-items: center; justify-content: space-between;">
+  <p style="display: flex; justify-content: space-between;">
     <img src="assets/usmba.png" height="55"/>
-    <strong style="font-size: 18px;">Software Engineering student</strong>
+    <strong style="font-size: 18px;  align-items: center">Software Engineering student</strong>
     <img src="assets/ensaf.png" height="80"/>
   </p>
 </div>
