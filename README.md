@@ -7,7 +7,7 @@
     Software Engineering student
   </strong>
 
-  <img src="assets/ensaf.png" alt="ENSAF" height="55"/>
+  <img src="assets/ensaf.png" alt="ENSAF" height="80"/>
 </p>
 
 <hr />
