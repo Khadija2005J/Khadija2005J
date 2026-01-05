@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Khadija</h1>
 
-<p align="center">
-  Software Engineering student 
-</p>
+<p align="center"><strong>Software Engineering student</strong></p>
+
+<p align="center">—</p>
+
 Software Engineering student with a strong interest in modern technologies
 I enjoy building, learning, and improving step by step through real practice.
 
