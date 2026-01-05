@@ -4,7 +4,7 @@
       <img src="assets/usmba.png" alt="USMBA logo" width="120"/>
     </td>
     <td align="center">
-      <h1>Hi 👋, I'm Khadija</h1>
+      <h1>Hi 👋, I'm Khadija Alaoui Mrani</h1>
       <p><strong>Software Engineering student</strong></p>
     </td>
     <td width="20%" align="right">
