@@ -20,19 +20,6 @@
 
 </div>
 
----
-
-Software Engineering student with a strong interest in modern technologies. I enjoy learning by doing and taking each step through real practice.
-
-I mainly work on full-stack development, with a solid foundation in programming, data structures and algorithms.
-
-
-
-
-
-
-
-
 Software Engineering student with a strong interest in modern technologies
 I enjoy building, learning, and improving step by step through real practice.
 
