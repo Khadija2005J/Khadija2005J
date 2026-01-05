@@ -2,21 +2,22 @@
 
 <table align="center">
   <tr>
-    <td style="padding-right: 30px;">
+    <td style="padding-right: 35px;">
       <img src="assets/usmba.png" alt="USMBA" height="55"/>
     </td>
 
-    <td style="padding: 0 25px; font-weight: 600; font-size: 18px;">
+    <td style="padding: 0 30px; font-weight: 600; font-size: 18px;">
       Software Engineering student
     </td>
 
-    <td style="padding-left: 30px;">
+    <td style="padding-left: 35px;">
       <img src="assets/ensaf.png" alt="ENSAF" height="55"/>
     </td>
   </tr>
 </table>
 
 <hr />
+
 
 
 
