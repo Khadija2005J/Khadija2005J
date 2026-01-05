@@ -3,6 +3,14 @@
 <p align="center"><strong>Software Engineering student</strong></p>
 
 <p align="center">—</p>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/University_Sidi_Mohamed_Ben_Abdellah_Logo.png/600px-University_Sidi_Mohamed_Ben_Abdellah_Logo.png" 
+       alt="USMBA Logo" height="60" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://ensaf.ac.ma/favicon.ico" 
+       alt="ENSAF Logo" height="60" />
+</p>
+
 
 Software Engineering student with a strong interest in modern technologies
 I enjoy building, learning, and improving step by step through real practice.
