@@ -1,17 +1,11 @@
-<table width="100%">
-  <tr>
-    <td width="20%" align="left">
-      <img src="assets/usmba.png" alt="USMBA logo" width="120"/>
-    </td>
-    <td align="center">
-      <h1>Hi 👋, I'm Khadija</h1>
-      <p><strong>Software Engineering student</strong></p>
-    </td>
-    <td width="20%" align="right">
-      <img src="assets/ensaf.png" alt="ENSAF logo" width="120"/>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 40px 0;">
+    <img src="assets/usmba.png" alt="USMBA logo" width="120"/>
+    <div style="text-align: center;">
+        <h1>Hi 👋, I'm Khadija</h1>
+        <p><strong>Software Engineering student</strong></p>
+    </div>
+    <img src="assets/ensaf.png" alt="ENSAF logo" width="120"/>
+</div>
 
 ---
 
