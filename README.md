@@ -1,23 +1,12 @@
 <h1 align="center">Hi 👋, I'm Khadija</h1>
 
-<table width="100%">
-  <tr>
-    <!-- Left -->
-    <td align="left" width="33%">
-      <img src="assets/usmba.png" alt="USMBA" height="55"/>
-    </td>
-
-    <!-- Center -->
-    <td align="center" width="34%" style="font-weight: 600; font-size: 18px;">
-      Software Engineering student
-    </td>
-
-    <!-- Right -->
-    <td align="right" width="33%">
-      <img src="assets/ensaf.png" alt="ENSAF" height="80"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/usmba.png" alt="USMBA" height="55" style="vertical-align:middle;"/>
+  &nbsp;&nbsp;&nbsp;
+  <strong style="font-size:18px;">Software Engineering student</strong>
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/ensaf.png" alt="ENSAF" height="80" style="vertical-align:middle;"/>
+</p>
 
 <hr />
 
