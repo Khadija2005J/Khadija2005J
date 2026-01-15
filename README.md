@@ -59,5 +59,4 @@ I enjoy working in teams, sharing ideas, and contributing to collaborative and o
 ## Fun facts
 I often start coding with a simple idea and enjoy improving it step by step.
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6968fedbcfbef9e27663953e?variant=dark" alt="roadmap.sh"/></a>
-[![roadmap.sh](https://roadmap.sh/card/tall/6968fedbcfbef9e27663953e?variant=dark)](https://roadmap.sh)
+
